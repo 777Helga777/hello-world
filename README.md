@@ -4,3 +4,4 @@ first repository
 
 
 I am interested in new technologies and new knowledge!
+Adding some local changes
